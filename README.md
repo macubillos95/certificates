@@ -7,13 +7,15 @@ This repository contains my collection of completed technical certifications in 
 - [Curso: ChatGPT Prompt Writing](Curso-ChatGPT-Prompt-Writing.pdf)  
 - [Curso: Java](Curso-Java.pdf)  
 - [SOLID Principles and Clean Code](Solid-principles-and-clean-code.pdf)  
-- [The Git & GitHub Bootcamp](The-Git-&-Github-Bootcamp.pdf)  
+- [The Git & GitHub Bootcamp](The-Git-&-Github-Bootcamp.pdf)
+- [Curso Junit 5 & Mockito](curso-JUnit-5-&-Mockito.pdf)
 - [Green IT: Sustainable Coding for Backend](Green-IT-Sustainable-Coding-for-Backend.pdf)  
 - [Green IT: Sustainable Coding for Mobile](Green-IT-Sustainable-Coding-for-Mobile.pdf)  
 - [Green IT: Sustainable Coding for Web UI](Green-IT-Sustainable-Coding-for-Web-UI.pdf)  
 - [The Impact of AI on Software Development (Introductory Training)](The-Impact-of-AI-on-Software-Development-Introductory-Training.pdf)  
 - [Agentic AI Systems](Agentic-AI-Systems.pdf)  
-- [Green IT: Principles and Concepts](Green-IT-Principles-and-Concepts.pdf)  
+- [Green IT: Principles and Concepts](Green-IT-Principles-and-Concepts.pdf)
+
 
 ---
 
