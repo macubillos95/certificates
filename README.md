@@ -11,6 +11,7 @@ This repository contains my collection of completed technical certifications in 
 - [Curso Junit 5 & Mockito](curso-JUnit-5-&-Mockito.pdf)
 - [Curso introduccion testing](Curso-introduccion-testing.pdf)
 - [The Complete SQL bootcamp](The-complete-SQL-bootcamp.pdf)
+- [Curso apache maven](curso-apache-maven.pdf)
 - [Curso: ChatGPT Prompt Writing](Curso-ChatGPT-Prompt-Writing.pdf)  
 - [Green IT: Sustainable Coding for Backend](Green-IT-Sustainable-Coding-for-Backend.pdf)  
 - [Green IT: Sustainable Coding for Mobile](Green-IT-Sustainable-Coding-for-Mobile.pdf)  
