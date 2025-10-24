@@ -5,6 +5,7 @@ This repository contains my collection of completed technical certifications in 
 ## 📜 Certificates
 
 - [Curso: Java](Curso-Java.pdf)  
+- [Api restful con java y SpringBoot](Api-restful-java-springBoot.pdf)
 - [SOLID Principles and Clean Code](Solid-principles-and-clean-code.pdf)  
 - [The Git & GitHub Bootcamp](The-Git-&-Github-Bootcamp.pdf)
 - [AWS Introduction](curso-introduccion-AWS.pdf)
